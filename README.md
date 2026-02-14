@@ -1,2 +1,5 @@
 # data-pipeline-main-446
-Analytics data pipeline output
+
+**Data Pipeline Artifacts**
+
+This repository contains processed data and intermediate results from the analytics pipeline.
